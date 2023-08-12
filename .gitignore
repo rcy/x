@@ -1,1 +1,3 @@
 /scratchlink/__MACOSX/
+.gitsecret/keys/random_seed
+!*.secret
