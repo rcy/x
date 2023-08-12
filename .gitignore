@@ -1,3 +1,4 @@
 /scratchlink/__MACOSX/
 .gitsecret/keys/random_seed
 !*.secret
+private/hideme.txt
